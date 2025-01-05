@@ -91,8 +91,8 @@ const RESOURCES = {"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2e
 "canvaskit/skwasm.wasm": "6711032e17bf49924b2b001cef0d3ea3",
 "canvaskit/canvaskit.wasm": "f48eaf57cada79163ec6dec7929486ea",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
-"index.html": "1806647e6dbc8ea72fdbe3f5cdfc915e",
-"/": "1806647e6dbc8ea72fdbe3f5cdfc915e",
+"index.html": "af0cfc410f49624ef57263e905812108",
+"/": "af0cfc410f49624ef57263e905812108",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "main.dart.js": "c5471793b694aa7cefe17a874d25bb8e"};
